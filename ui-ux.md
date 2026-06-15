@@ -1,3 +1,11 @@
 ![UI/UX Title](assets/images/ui-ux-title.png)
 ![SE-1](assets/images/ui-1.png)
 ![SE-2](assets/images/ui-2.png)
+![SE-3](assets/images/ui-3.png)
+![Sh-1](assets/images/ui-4.png)
+![Sh-2](assets/images/ui-5.png)
+![Sh-3](assets/images/ui-6.png)
+![Tr-1](assets/images/ui-7.png)
+![Tr-2](assets/images/ui-8.png)
+![Tr-3](assets/images/ui-9.png)
+
