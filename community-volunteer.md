@@ -1,1 +1,1 @@
-![Community Volunteer](assets/images/volunteer.png)
+![Community Volunteer](assets/images/.png)
