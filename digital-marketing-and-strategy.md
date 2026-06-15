@@ -1,1 +1,1 @@
-![Digital Marketing Title](rai-portfolio/assets/Screenshot 2026-06-16 004230.png)
+![Digital Marketing Title](assets/images/dm-title.png)
