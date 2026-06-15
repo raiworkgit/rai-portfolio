@@ -1,1 +1,1 @@
-![Sprout Up Bohol](assets/images/sprout-up.png)
+![Community Volunteer](assets/images/volunteer.png)
